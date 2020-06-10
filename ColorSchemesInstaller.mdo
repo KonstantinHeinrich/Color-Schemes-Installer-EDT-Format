@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="aa0e7e32-710c-4108-b92c-137b1a63fbba">
+  <producedTypes>
+    <objectType typeId="af37965b-e8ff-4286-ba73-cfa1b5cb82b6" valueTypeId="d02b4d21-e528-428f-bdb3-a61e9f8068ea"/>
+  </producedTypes>
+  <name>ColorSchemesInstaller</name>
+  <synonym>
+    <key>ru</key>
+    <value>Color schemes installer</value>
+  </synonym>
+  <comment>Установка цветовых схем для конфигуратора и EDT из файлов</comment>
+  <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="3f6ffbb6-79f8-4e24-8680-f68b40f49768"/>
+  <defaultForm>ExternalDataProcessor.ColorSchemesInstaller.Form.Form</defaultForm>
+  <forms uuid="d10deb13-fb49-45dd-9f63-47342b2152b3">
+    <name>Form</name>
+    <synonym>
+      <key>ru</key>
+      <value>Form</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="83122c2c-ed5d-41d0-b3e4-8496e4b3c588">
+    <name>FormLinks</name>
+    <synonym>
+      <key>ru</key>
+      <value>Form links</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <templates uuid="de741a1e-0941-4226-aa77-68bf9101867f">
+    <name>DefaultSchemes</name>
+    <synonym>
+      <key>ru</key>
+      <value>Default schemes</value>
+    </synonym>
+    <templateType>TextDocument</templateType>
+  </templates>
+  <templates uuid="53eae88a-2c10-46f2-876a-b8b5e87ad8dd">
+    <name>Designer_IDEA</name>
+    <synonym>
+      <key>ru</key>
+      <value>Designer IDEA</value>
+    </synonym>
+    <templateType>TextDocument</templateType>
+  </templates>
+  <templates uuid="324dba96-c01a-48c7-bdf7-e7a2cd53032e">
+    <name>Designer_HTML</name>
+    <synonym>
+      <key>ru</key>
+      <value>Designer HTML</value>
+    </synonym>
+    <templateType>HTMLDocument</templateType>
+  </templates>
+  <templates uuid="7a6bedee-54d6-4f3d-b788-0457310dd40a">
+    <name>Designer_Sublime</name>
+    <synonym>
+      <key>ru</key>
+      <value>Designer Sublime</value>
+    </synonym>
+    <templateType>TextDocument</templateType>
+  </templates>
+  <templates uuid="0fc20be8-4433-43a1-a8c7-91f324236d71">
+    <name>Designer_Sublimes</name>
+    <synonym>
+      <key>ru</key>
+      <value>Designer Sublimes</value>
+    </synonym>
+    <templateType>TextDocument</templateType>
+  </templates>
+  <templates uuid="d312102d-3805-40be-a05e-f373a9593813">
+    <name>EDT_IDEA</name>
+    <synonym>
+      <key>ru</key>
+      <value>EDT IDEA</value>
+    </synonym>
+    <templateType>TextDocument</templateType>
+  </templates>
+  <templates uuid="823033ac-7f8d-4074-b403-be1c811fadd0">
+    <name>EDT_Sublime</name>
+    <synonym>
+      <key>ru</key>
+      <value>EDT sublime</value>
+    </synonym>
+    <templateType>TextDocument</templateType>
+  </templates>
+  <templates uuid="d3fcb8de-80d7-4898-a9bf-60dd173cef19">
+    <name>EDT_Sublimes</name>
+    <synonym>
+      <key>ru</key>
+      <value>EDT sublimes</value>
+    </synonym>
+    <templateType>TextDocument</templateType>
+  </templates>
+  <templates uuid="6512034a-987e-4574-9e80-e262dde620ef">
+    <name>EDT_HTML</name>
+    <synonym>
+      <key>ru</key>
+      <value>EDT HTML</value>
+    </synonym>
+    <templateType>HTMLDocument</templateType>
+  </templates>
+</mdclass:ExternalDataProcessor>
