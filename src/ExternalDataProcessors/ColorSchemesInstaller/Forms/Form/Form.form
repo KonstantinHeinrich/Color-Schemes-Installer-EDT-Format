@@ -6186,7 +6186,7 @@
       <common>true</common>
     </use>
     <picture xsi:type="core:PictureRef">
-      <picture>0:f164fa2a-0a20-48df-9816-e2d6cbe0aee9</picture>
+      <picture>StdPicture.AppearanceBoxesTwoFilled</picture>
     </picture>
     <action xsi:type="form:FormCommandHandlerContainer">
       <handler>
@@ -6211,7 +6211,7 @@
       <common>true</common>
     </use>
     <picture xsi:type="core:PictureRef">
-      <picture>0:f164fa2a-0a20-48df-9816-e2d6cbe0aee9</picture>
+      <picture>StdPicture.AppearanceBoxesTwoFilled</picture>
     </picture>
     <action xsi:type="form:FormCommandHandlerContainer">
       <handler>
