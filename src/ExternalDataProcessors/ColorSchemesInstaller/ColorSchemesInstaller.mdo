@@ -37,14 +37,6 @@
     </synonym>
     <templateType>TextDocument</templateType>
   </templates>
-  <templates uuid="53eae88a-2c10-46f2-876a-b8b5e87ad8dd">
-    <name>Designer_IDEA</name>
-    <synonym>
-      <key>ru</key>
-      <value>Designer IDEA</value>
-    </synonym>
-    <templateType>TextDocument</templateType>
-  </templates>
   <templates uuid="324dba96-c01a-48c7-bdf7-e7a2cd53032e">
     <name>Designer_HTML</name>
     <synonym>
@@ -52,6 +44,14 @@
       <value>Designer HTML</value>
     </synonym>
     <templateType>HTMLDocument</templateType>
+  </templates>
+  <templates uuid="53eae88a-2c10-46f2-876a-b8b5e87ad8dd">
+    <name>Designer_IDEA</name>
+    <synonym>
+      <key>ru</key>
+      <value>Designer IDEA</value>
+    </synonym>
+    <templateType>TextDocument</templateType>
   </templates>
   <templates uuid="7a6bedee-54d6-4f3d-b788-0457310dd40a">
     <name>Designer_Sublime</name>
@@ -68,6 +68,14 @@
       <value>Designer Sublimes</value>
     </synonym>
     <templateType>TextDocument</templateType>
+  </templates>
+  <templates uuid="6512034a-987e-4574-9e80-e262dde620ef">
+    <name>EDT_HTML</name>
+    <synonym>
+      <key>ru</key>
+      <value>EDT HTML</value>
+    </synonym>
+    <templateType>HTMLDocument</templateType>
   </templates>
   <templates uuid="d312102d-3805-40be-a05e-f373a9593813">
     <name>EDT_IDEA</name>
@@ -93,12 +101,20 @@
     </synonym>
     <templateType>TextDocument</templateType>
   </templates>
-  <templates uuid="6512034a-987e-4574-9e80-e262dde620ef">
-    <name>EDT_HTML</name>
+  <templates uuid="3e4fed09-0f2a-4067-87d6-28f8cfc55537">
+    <name>IDEA_Themes</name>
     <synonym>
       <key>ru</key>
-      <value>EDT HTML</value>
+      <value>IDEA themes</value>
     </synonym>
-    <templateType>HTMLDocument</templateType>
+    <templateType>BinaryData</templateType>
+  </templates>
+  <templates uuid="a1852c57-aa4b-4da3-bbb0-e31f4b4500cf">
+    <name>IDEA_Themes_List</name>
+    <synonym>
+      <key>ru</key>
+      <value>IDEA themes list</value>
+    </synonym>
+    <templateType>TextDocument</templateType>
   </templates>
 </mdclass:ExternalDataProcessor>
